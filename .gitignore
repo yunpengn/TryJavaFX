@@ -1,0 +1,13 @@
+# Generated class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Idea files
+.idea/
+*.iml
+out/
+/bin/
